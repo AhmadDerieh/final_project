@@ -1,0 +1,406 @@
+[{
+  "_id": {
+    "$oid": "62739abbb4115d536a12cc05"
+  },
+  "name": "GalaxyA525G",
+  "description": "white Galaxy",
+  "image": "1W.jpg",
+  "price": 300,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "62739ce3b4115d536a12cc06"
+  },
+  "name": "iphone11",
+  "description": "white iphones",
+  "image": "2t.jpg",
+  "price": 100,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "62739d60b4115d536a12cc07"
+  },
+  "name": "apple iphone11 pro max",
+  "description": "apple iphone11 pro max-gold",
+  "image": "3r.jpg",
+  "price": 100,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "62739dc4b4115d536a12cc08"
+  },
+  "name": "Apple iphone xs Max",
+  "description": "iphone xs Max 512GB 4G LTE -black",
+  "image": "4y.jpg",
+  "price": 90,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "6273a408b4115d536a12cc09"
+  },
+  "name": "iphone 13 pro",
+  "description": "iphone 13 pro-blue",
+  "image": "5s.jpg",
+  "price": 500,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "6273a63fb4115d536a12cc0a"
+  },
+  "name": " samsung Galaxy A11",
+  "description": "RAM 3GB",
+  "image": "h7.jpg",
+  "price": 150,
+  "category": "Phones"
+},{
+  "_id": {
+    "$oid": "6273ac4ab4115d536a12cc0c"
+  },
+  "name": "Huawei Nova 5t",
+  "description": "Android RAM 8GB",
+  "image": "99.jpg",
+  "price": 120,
+  "category": "Phones"
+},{
+  "_id": {
+    "$oid": "6273b081b4115d536a12cc0d"
+  },
+  "name": "ipad pro",
+  "description": "ipad pro black",
+  "image": "ipad pro.jpg",
+  "price": 500,
+  "category": "computers"
+},{
+  "_id": {
+    "$oid": "6273b231b4115d536a12cc0e"
+  },
+  "name": "HP-pavilon x360",
+  "description": "windowes 10 home blue",
+  "image": "67.jpg",
+  "price": 500,
+  "category": "computers"
+},{
+  "_id": {
+    "$oid": "6273b284b4115d536a12cc0f"
+  },
+  "name": "MSI",
+  "description": "MSI GF63 thin 15-5 FHD Gaming laptop",
+  "image": "884.jpg",
+  "price": 360,
+  "category": "computers"
+},{
+  "_id": {
+    "$oid": "6273b2d2b4115d536a12cc10"
+  },
+  "name": "Mac",
+  "description": "mac laptop -pink",
+  "image": "556.jpg",
+  "price": 900,
+  "catrgory": "computers"
+},{
+  "_id": {
+    "$oid": "6273b31cb4115d536a12cc11"
+  },
+  "name": "dell  refreshes xps 13",
+  "description": "faster processors and rose gohd",
+  "image": "567.jpg",
+  "price": 170,
+  "category": "computers"
+},{
+  "_id": {
+    "$oid": "6273b38ab4115d536a12cc12"
+  },
+  "name": "iphone 7+",
+  "description": "pink iphone",
+  "image": "112.jpg",
+  "price": 120,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "6273b425b4115d536a12cc13"
+  },
+  "name": "Galaxy note20",
+  "description": "G5 128GB",
+  "image": "O3.jpg",
+  "price": 90,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "6273e0cab4115d536a12cc14"
+  },
+  "name": "cover iphone",
+  "description": "marbel glitter phone case",
+  "image": "nn.jpg",
+  "price": 20,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "6273e136b4115d536a12cc15"
+  },
+  "name": "cover iphone",
+  "description": "iphone cute case",
+  "image": "qq.jpg",
+  "price": 15,
+  "category": "iphones"
+},{
+  "_id": {
+    "$oid": "6273e16cb4115d536a12cc16"
+  },
+  "name": "cover iphone",
+  "description": "cool spring mood",
+  "image": "ni.jpg",
+  "price": 10,
+  "category": "iphones"
+},{
+  "_id": {
+    "$oid": "6273e1c2b4115d536a12cc17"
+  },
+  "name": "cover phone",
+  "description": "louis vuitton",
+  "image": "ve.jpg",
+  "price": 30,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "6273e20ab4115d536a12cc18"
+  },
+  "name": "cover phone",
+  "description": "Nike logo fashion",
+  "image": "mi.jpg",
+  "price": 20,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "6273e2bdb4115d536a12cc19"
+  },
+  "name": "cover phone",
+  "description": "space covercase for samsung ",
+  "image": "ee.jpg",
+  "price": 15,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "6273e301b4115d536a12cc1a"
+  },
+  "name": "cover phone",
+  "description": "cute puppies",
+  "image": "rr.jpg",
+  "price": 18,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "6273e340b4115d536a12cc1b"
+  },
+  "name": "cover phone",
+  "description": "cute label bear korean iphone case",
+  "image": "tt.jpg",
+  "price": 17,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "6273e481b4115d536a12cc1c"
+  },
+  "name": "apple phone 12",
+  "description": "iphone 12 ",
+  "image": "yy.jpg",
+  "price": 243,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "6273e4fcb4115d536a12cc1d"
+  },
+  "description": "smartphone",
+  "image": "rt.jpg",
+  "name": "nokia x90 2021",
+  "price": 800,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "6273e558b4115d536a12cc1e"
+  },
+  "category": "phones",
+  "description": "smartphone",
+  "image": "cv.jpg",
+  "name": "nokia11max",
+  "price": 332
+},{
+  "_id": {
+    "$oid": "6273e563b4115d536a12cc1f"
+  },
+  "category": "phone",
+  "description": "5G2 2022",
+  "image": "ka.jpg",
+  "name": "nokia flip pro",
+  "price": 689
+},{
+  "_id": {
+    "$oid": "6273e56db4115d536a12cc20"
+  },
+  "category": "phone",
+  "description": "samsung galaxy smattphone",
+  "image": "kz.jpg",
+  "name": "samsung galaxy",
+  "price": 390
+},{
+  "_id": {
+    "$oid": "6273e572b4115d536a12cc21"
+  },
+  "category": "phones",
+  "description": "apple iphone XR 64GB ",
+  "image": "kb.jpg",
+  "name": "iphone XR",
+  "price": 570
+},{
+  "_id": {
+    "$oid": "6273e577b4115d536a12cc22"
+  },
+  "category": "phones",
+  "description": "4RAM",
+  "image": "ky.jpg",
+  "name": "smartphone xiaomi redmi note 8",
+  "price": 540
+},{
+  "_id": {
+    "$oid": "6273e57bb4115d536a12cc23"
+  },
+  "caegory": "phones",
+  "description": "feminine line art biodegradable",
+  "image": "666.jpg",
+  "name": "cover phone",
+  "price": 10
+},{
+  "_id": {
+    "$oid": "6273e580b4115d536a12cc24"
+  },
+  "category": "computers",
+  "description": "samsung Galaxy  tab s7 tablet s pen",
+  "image": "555.jpg",
+  "name": "samsung Galaxy s7",
+  "price": 400
+},{
+  "_id": {
+    "$oid": "6273e584b4115d536a12cc25"
+  },
+  "category": "phones",
+  "description": "cool japanese art design",
+  "image": "777.jpg",
+  "name": "cover phone",
+  "price": 10
+},{
+  "_id": {
+    "$oid": "6273e5acb4115d536a12cc2b"
+  },
+  "category": "phones",
+  "description": "android phone z flip 3",
+  "image": "333.jpg",
+  "name": "samsung Galaxy z Flip3",
+  "price": 900
+},{
+  "_id": {
+    "$oid": "6273e5b6b4115d536a12cc2c"
+  },
+  "category": "computers",
+  "description": "gold and logo white marble Macbook",
+  "image": "999.jpg",
+  "name": "Macbook",
+  "price": 600
+},{
+  "_id": {
+    "$oid": "6273e5bbb4115d536a12cc2d"
+  },
+  "category": "phones",
+  "description": "retro chocolate boba bear",
+  "image": "111.jpg\n",
+  "name": "cover phone",
+  "price": 10
+},{
+  "_id": {
+    "$oid": "6273e5bfb4115d536a12cc2e"
+  },
+  "category": "phones",
+  "description": "matte black",
+  "image": "i8.jpg",
+  "name": "iphone 7",
+  "price": 150
+},{
+  "_id": {
+    "$oid": "6273e5c4b4115d536a12cc2f"
+  },
+  "category": "phones",
+  "description": "spring case",
+  "image": "mb.jpg",
+  "name": "spring case",
+  "price": 10
+},{
+  "_id": {
+    "$oid": "6273e5c8b4115d536a12cc30"
+  },
+  "category": " phones",
+  "description": "winter case",
+  "image": "mo.jpg",
+  "name": "cover phone",
+  "price": 10
+},{
+  "_id": {
+    "$oid": "6273e5ccb4115d536a12cc31"
+  },
+  "category": "phones",
+  "description": "5G",
+  "image": "df.jpg",
+  "name": "samsung Galaxy 32",
+  "price": 300
+},{
+  "_id": {
+    "$oid": "6273e5d2b4115d536a12cc32"
+  },
+  "category": "computers",
+  "description": "samsung galaxy book s",
+  "image": "zx.jpg",
+  "name": "samsung galaxy",
+  "price": 900
+},{
+  "_id": {
+    "$oid": "6273e5dbb4115d536a12cc33"
+  },
+  "category": "computers",
+  "decription": "ideapad 720s ",
+  "image": "lk.jpg",
+  "name": "lenovo",
+  "price": 110
+},{
+  "_id": {
+    "$oid": "6273e5e0b4115d536a12cc34"
+  },
+  "category": "phones",
+  "description": "huawei iphone xbase",
+  "image": "pm.jpg",
+  "name": "huawei",
+  "price": 88
+},{
+  "_id": {
+    "$oid": "6273e5e5b4115d536a12cc35"
+  },
+  "category": "phones",
+  "description": "original apple iphone 8 ios 3d touch",
+  "image": "gh.jpg",
+  "name": "apple iphone 8",
+  "price": 467
+},{
+  "_id": {
+    "$oid": "6273e5eab4115d536a12cc36"
+  },
+  "category": "phones",
+  "description": "nokia zenjutsu  premium 2021 ",
+  "image": "ty.jpg",
+  "name": "nokia",
+  "price": 845
+},{
+  "_id": {
+    "$oid": "6273e5eeb4115d536a12cc37"
+  },
+  "category": "phones",
+  "description": "android smartphone",
+  "image": "yu.jpg",
+  "name": "samsung Galaxy A21",
+  "price": 456
+}]
