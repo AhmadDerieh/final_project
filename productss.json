@@ -1,0 +1,824 @@
+[{
+  "_id": {
+    "$oid": "62739a1c164db43ca04b2f12"
+  },
+  "name": "earrings",
+  "description": "10 pairs earrings",
+  "category": "clothes",
+  "image": "17.jpg",
+  "price": 10
+},{
+  "_id": {
+    "$oid": "62739ae7164db43ca04b2f13"
+  },
+  "name": "hand bag",
+  "description": "women black handbag",
+  "category": "clothes",
+  "image": "18.jpg",
+  "price": 50
+},{
+  "_id": {
+    "$oid": "62739b5c164db43ca04b2f14"
+  },
+  "name": "sandal",
+  "description": "open sandal",
+  "category": "clothes",
+  "image": "20.jpg",
+  "price": 40
+},{
+  "_id": {
+    "$oid": "62739bf3164db43ca04b2f15"
+  },
+  "name": "blue socks",
+  "description": "6pairs socks",
+  "category": "clothes",
+  "image": "21.jpg",
+  "price": 15
+},{
+  "_id": {
+    "$oid": "62739c8a164db43ca04b2f16"
+  },
+  "name": "trench coat",
+  "description": "double button & of-white coat",
+  "category": "clothes",
+  "image": "22.jpg",
+  "price": 100
+},{
+  "_id": {
+    "$oid": "62739d32164db43ca04b2f17"
+  },
+  "name": "men t-shirt",
+  "description": "summer t-shirt",
+  "category": "clothes",
+  "image": "24.jpg",
+  "price": 35
+},{
+  "_id": {
+    "$oid": "62739d93164db43ca04b2f18"
+  },
+  "name": "men t-shirtt",
+  "description": "dark grey t-shirt for men",
+  "category": "clothes",
+  "image": "25.jpg",
+  "price": 20
+},{
+  "_id": {
+    "$oid": "62739e24164db43ca04b2f19"
+  },
+  "name": "hooded jacket",
+  "description": "black and white jacket",
+  "category": "clothes",
+  "image": "27.jpg",
+  "price": 50
+},{
+  "_id": {
+    "$oid": "62739e9c164db43ca04b2f1a"
+  },
+  "name": "graphic socks",
+  "description": "5 pairs cartoon socks",
+  "category": "clothes",
+  "image": "28.jpg",
+  "price": 10
+},{
+  "_id": {
+    "$oid": "62739f18164db43ca04b2f1b"
+  },
+  "name": "hand watch",
+  "description": "black hand watch",
+  "category": "clothes",
+  "image": "30.jpg",
+  "price": 20
+},{
+  "_id": {
+    "$oid": "6273b0bf164db43ca04b2f1c"
+  },
+  "name": "women sandal",
+  "description": "summer black sandal",
+  "category": "clothes",
+  "image": "31.jpg",
+  "price": 25
+},{
+  "_id": {
+    "$oid": "6273b121164db43ca04b2f1d"
+  },
+  "name": "men mountain print t-shirt",
+  "description": "brown t-shirt for men",
+  "category": "clothes",
+  "image": "32.jpg",
+  "price": 40
+},{
+  "_id": {
+    "$oid": "6273b1b2164db43ca04b2f1e"
+  },
+  "name": "phone case",
+  "description": "cartoon graphic phone case",
+  "category": "phones",
+  "image": "33.jpg",
+  "price": 10
+},{
+  "_id": {
+    "$oid": "6273b245164db43ca04b2f1f"
+  },
+  "name": "black boots",
+  "description": "women fashion boots",
+  "category": "clothes",
+  "image": "34.jpg",
+  "price": 70
+},{
+  "_id": {
+    "$oid": "6273b2e0164db43ca04b2f20"
+  },
+  "name": "black t-shirt for women",
+  "description": "black with flower shirt for women",
+  "category": "clothes",
+  "image": "35.jpg",
+  "price": 40
+},{
+  "_id": {
+    "$oid": "6273b38c164db43ca04b2f21"
+  },
+  "name": "summer black sandal",
+  "description": "black fashion sandal for women",
+  "category": "clothes",
+  "image": "36.jpg",
+  "price": 30
+},{
+  "_id": {
+    "$oid": "6273b3ec164db43ca04b2f22"
+  },
+  "name": "women red t-shirt",
+  "description": "summer red t-shirt for women",
+  "category": "clothes",
+  "image": "37.jpg",
+  "price": 30
+},{
+  "_id": {
+    "$oid": "6273b455164db43ca04b2f23"
+  },
+  "name": "white phone case",
+  "description": "phone case for iphones",
+  "category": "phones",
+  "image": "39.jpg",
+  "price": 10
+},{
+  "_id": {
+    "$oid": "6273b4c5164db43ca04b2f24"
+  },
+  "name": "black phone case",
+  "description": "black phone case for iphone",
+  "category": "phones",
+  "image": "40.jpg",
+  "price": 10
+},{
+  "_id": {
+    "$oid": "6273b53e164db43ca04b2f25"
+  },
+  "name": "men black t-shirt",
+  "description": "summer black t-shirt for men",
+  "category": "clothes",
+  "image": "41.jpg",
+  "price": 35
+},{
+  "_id": {
+    "$oid": "6273b5a5164db43ca04b2f26"
+  },
+  "name": "rose t-shirt",
+  "description": "summer rose t-shirt",
+  "category": "clothes",
+  "image": "42.jpg",
+  "price": 40
+},{
+  "_id": {
+    "$oid": "6273b620164db43ca04b2f27"
+  },
+  "name": "summer white t-shirt for women",
+  "description": "women white t-shirt",
+  "category": "clothes",
+  "image": "43.jpg",
+  "price": 30
+},{
+  "_id": {
+    "$oid": "6273b743164db43ca04b2f29"
+  },
+  "name": "red with white t-shirt for women",
+  "description": "summer t-shirt for women",
+  "category": "clothes",
+  "image": "44.jpg",
+  "price": 50
+},{
+  "_id": {
+    "$oid": "6273b8d4164db43ca04b2f2a"
+  },
+  "name": "women earrings ",
+  "description": "8 pairs",
+  "category": "clothes",
+  "image": "45.jpg",
+  "price": 12
+},{
+  "_id": {
+    "$oid": "6273b955164db43ca04b2f2c"
+  },
+  "name": "t-shirtt",
+  "description": "women black t-shirt",
+  "category": "clothes",
+  "image": "46.jpg",
+  "price": 32
+},{
+  "_id": {
+    "$oid": "6273b9aa164db43ca04b2f2d"
+  },
+  "name": "airpods case",
+  "description": "airpods case ",
+  "category": "phones",
+  "image": "47.jpg",
+  "price": 15
+},{
+  "_id": {
+    "$oid": "6273ba50164db43ca04b2f2e"
+  },
+  "name": "women black shirt",
+  "description": "summer t-shirt",
+  "category": "clothes",
+  "image": "48.jpg",
+  "price": 20
+},{
+  "_id": {
+    "$oid": "6273bad3164db43ca04b2f2f"
+  },
+  "name": "men t-shirt",
+  "description": "black t-shirt for men",
+  "category": "clothes",
+  "image": "49.jpg",
+  "price": 25
+},{
+  "_id": {
+    "$oid": "6273bb3b164db43ca04b2f30"
+  },
+  "name": "music phone case",
+  "description": "music white phone case for iphones",
+  "category": "phones",
+  "image": "50.jpg",
+  "price": 15
+},{
+  "_id": {
+    "$oid": "6273bbd6164db43ca04b2f31"
+  },
+  "name": "flower rose t-shirt",
+  "description": "women t-shirt",
+  "category": "clothes",
+  "image": "51.jpg",
+  "price": 35
+},{
+  "_id": {
+    "$oid": "6273bc50164db43ca04b2f32"
+  },
+  "name": "sweatshirt",
+  "description": "dark green sweatshirt",
+  "category": "clothes",
+  "image": "52.jpg",
+  "price": 60
+},{
+  "_id": {
+    "$oid": "6273bd07164db43ca04b2f33"
+  },
+  "name": "phone case",
+  "description": "white & black phone case",
+  "category": "phones",
+  "image": "53.jpg",
+  "price": 10
+},{
+  "_id": {
+    "$oid": "6273bdb4164db43ca04b2f34"
+  },
+  "name": "coin necklace",
+  "description": "women necklace",
+  "category": "clothes",
+  "image": "54.jpg",
+  "price": 12
+},{
+  "_id": {
+    "$oid": "6273be4b164db43ca04b2f35"
+  },
+  "name": "backbag",
+  "description": "black backbag",
+  "category": "clothes",
+  "image": "55.jpg",
+  "price": 50
+},{
+  "_id": {
+    "$oid": "6273bea2164db43ca04b2f36"
+  },
+  "name": "keyboard & mouse",
+  "description": "rose keyboard & mouse",
+  "category": "computers",
+  "image": "56.jpg",
+  "price": 80
+},{
+  "_id": {
+    "$oid": "6273bf3a164db43ca04b2f37"
+  },
+  "name": "white t-shirtt",
+  "category": "clothse",
+  "image": "57.jpg",
+  "price": 30
+},{
+  "_id": {
+    "$oid": "6273bf95164db43ca04b2f38"
+  },
+  "name": "gray t-shirt",
+  "description": "women gray t-shirt",
+  "category": "clothes",
+  "image": "58.jpg",
+  "price": 20
+},{
+  "_id": {
+    "$oid": "6273bff4164db43ca04b2f39"
+  },
+  "name": "cap",
+  "category": "clothes",
+  "image": "59.jpg",
+  "price": 10
+},{
+  "_id": {
+    "$oid": "6273c053164db43ca04b2f3a"
+  },
+  "name": "backbag &handbag",
+  "description": "black backBag & handBag",
+  "category": "clothes",
+  "image": "60.jpg",
+  "price": 50
+},{
+  "_id": {
+    "$oid": "6273c0d1164db43ca04b2f3b"
+  },
+  "name": "men t-shirt",
+  "description": "dark blue t-shirt for men",
+  "category": "clothes",
+  "image": "61.jpg",
+  "price": 5
+},{
+  "_id": {
+    "$oid": "6273c14d164db43ca04b2f3c"
+  },
+  "name": "men t-shirt",
+  "description": "black men t-shirt",
+  "category": "clothes",
+  "image": "62.jpg",
+  "price": 30
+},{
+  "_id": {
+    "$oid": "62739abbb4115d536a12cc05"
+  },
+  "name": "GalaxyA525G",
+  "description": "white Galaxy",
+  "image": "1W.jpg",
+  "price": 300,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "62739ce3b4115d536a12cc06"
+  },
+  "name": "iphone11",
+  "description": "white iphones",
+  "image": "2t.jpg",
+  "price": 100,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "62739d60b4115d536a12cc07"
+  },
+  "name": "apple iphone11 pro max",
+  "description": "apple iphone11 pro max-gold",
+  "image": "3r.jpg",
+  "price": 100,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "62739dc4b4115d536a12cc08"
+  },
+  "name": "Apple iphone xs Max",
+  "description": "iphone xs Max 512GB 4G LTE -black",
+  "image": "4y.jpg",
+  "price": 90,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "6273a408b4115d536a12cc09"
+  },
+  "name": "iphone 13 pro",
+  "description": "iphone 13 pro-blue",
+  "image": "5s.jpg",
+  "price": 500,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "6273a63fb4115d536a12cc0a"
+  },
+  "name": " samsung Galaxy A11",
+  "description": "RAM 3GB",
+  "image": "h7.jpg",
+  "price": 150,
+  "category": "Phones"
+},{
+  "_id": {
+    "$oid": "6273ac4ab4115d536a12cc0c"
+  },
+  "name": "Huawei Nova 5t",
+  "description": "Android RAM 8GB",
+  "image": "99.jpg",
+  "price": 120,
+  "category": "Phones"
+},{
+  "_id": {
+    "$oid": "6273b081b4115d536a12cc0d"
+  },
+  "name": "ipad pro",
+  "description": "ipad pro black",
+  "image": "ipad pro.jpg",
+  "price": 500,
+  "category": "computers"
+},{
+  "_id": {
+    "$oid": "6273b231b4115d536a12cc0e"
+  },
+  "name": "HP-pavilon x360",
+  "description": "windowes 10 home blue",
+  "image": "67.jpg",
+  "price": 500,
+  "category": "computers"
+},{
+  "_id": {
+    "$oid": "6273b284b4115d536a12cc0f"
+  },
+  "name": "MSI",
+  "description": "MSI GF63 thin 15-5 FHD Gaming laptop",
+  "image": "884.jpg",
+  "price": 360,
+  "category": "computers"
+},{
+  "_id": {
+    "$oid": "6273b2d2b4115d536a12cc10"
+  },
+  "name": "Mac",
+  "description": "mac laptop -pink",
+  "image": "556.jpg",
+  "price": 900
+},{
+  "_id": {
+    "$oid": "6273b31cb4115d536a12cc11"
+  },
+  "name": "dell  refreshes xps 13",
+  "description": "faster processors and rose gohd",
+  "image": "567.jpg",
+  "price": 170,
+  "category": "computers"
+},{
+  "_id": {
+    "$oid": "6273b38ab4115d536a12cc12"
+  },
+  "name": "iphone 7+",
+  "description": "pink iphone",
+  "image": "112.jpg",
+  "price": 120,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "6273b425b4115d536a12cc13"
+  },
+  "name": "Galaxy note20",
+  "description": "G5 128GB",
+  "image": "O3.jpg",
+  "price": 90,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "6273e0cab4115d536a12cc14"
+  },
+  "name": "cover iphone",
+  "description": "marbel glitter phone case",
+  "image": "nn.jpg",
+  "price": 20,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "6273e136b4115d536a12cc15"
+  },
+  "name": "cover iphone",
+  "description": "iphone cute case",
+  "image": "qq.jpg",
+  "price": 15,
+  "category": "iphones"
+},{
+  "_id": {
+    "$oid": "6273e16cb4115d536a12cc16"
+  },
+  "name": "cover iphone",
+  "description": "cool spring mood",
+  "image": "ni.jpg",
+  "price": 10,
+  "category": "iphones"
+},{
+  "_id": {
+    "$oid": "6273e1c2b4115d536a12cc17"
+  },
+  "name": "cover phone",
+  "description": "louis vuitton",
+  "image": "ve.jpg",
+  "price": 30,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "6273e20ab4115d536a12cc18"
+  },
+  "name": "cover phone",
+  "description": "Nike logo fashion",
+  "image": "mi.jpg",
+  "price": 20,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "6273e2bdb4115d536a12cc19"
+  },
+  "name": "cover phone",
+  "description": "space covercase for samsung ",
+  "image": "ee.jpg",
+  "price": 15,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "6273e301b4115d536a12cc1a"
+  },
+  "name": "cover phone",
+  "description": "cute puppies",
+  "image": "rr.jpg",
+  "price": 18,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "6273e340b4115d536a12cc1b"
+  },
+  "name": "cover phone",
+  "description": "cute label bear korean iphone case",
+  "image": "tt.jpg",
+  "price": 17,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "6273e481b4115d536a12cc1c"
+  },
+  "name": "apple phone 12",
+  "description": "iphone 12 ",
+  "image": "yy.jpg",
+  "price": 243,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "6273e4fcb4115d536a12cc1d"
+  },
+  "description": "smartphone",
+  "image": "rt.jpg",
+  "name": "nokia x90 2021",
+  "price": 800,
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "6273e558b4115d536a12cc1e"
+  },
+  "category": "phones",
+  "description": "smartphone",
+  "image": "cv.jpg",
+  "name": "nokia11max",
+  "price": 332
+},{
+  "_id": {
+    "$oid": "6273e563b4115d536a12cc1f"
+  },
+  "category": "phone",
+  "description": "5G2 2022",
+  "image": "ka.jpg",
+  "name": "nokia flip pro",
+  "price": 689
+},{
+  "_id": {
+    "$oid": "6273e56db4115d536a12cc20"
+  },
+  "category": "phone",
+  "description": "samsung galaxy smattphone",
+  "image": "kz.jpg",
+  "name": "samsung galaxy",
+  "price": 390
+},{
+  "_id": {
+    "$oid": "6273e572b4115d536a12cc21"
+  },
+  "category": "phones",
+  "description": "apple iphone XR 64GB ",
+  "image": "kb.jpg",
+  "name": "iphone XR",
+  "price": 570
+},{
+  "_id": {
+    "$oid": "6273e577b4115d536a12cc22"
+  },
+  "category": "phones",
+  "description": "4RAM",
+  "image": "ky.jpg",
+  "name": "smartphone xiaomi redmi note 8",
+  "price": 540
+},{
+  "_id": {
+    "$oid": "6273e57bb4115d536a12cc23"
+  },
+  "description": "feminine line art biodegradable",
+  "image": "666.jpg",
+  "name": "cover phone",
+  "price": 10
+},{
+  "_id": {
+    "$oid": "6273e580b4115d536a12cc24"
+  },
+  "category": "computers",
+  "description": "samsung Galaxy  tab s7 tablet s pen",
+  "image": "555.jpg",
+  "name": "samsung Galaxy s7",
+  "price": 400
+},{
+  "_id": {
+    "$oid": "6273e584b4115d536a12cc25"
+  },
+  "category": "phones",
+  "description": "cool japanese art design",
+  "image": "777.jpg",
+  "name": "cover phone",
+  "price": 10
+},{
+  "_id": {
+    "$oid": "6273e5acb4115d536a12cc2b"
+  },
+  "category": "phones",
+  "description": "android phone z flip 3",
+  "image": "333.jpg",
+  "name": "samsung Galaxy z Flip3",
+  "price": 900
+},{
+  "_id": {
+    "$oid": "6273e5b6b4115d536a12cc2c"
+  },
+  "category": "computers",
+  "description": "gold and logo white marble Macbook",
+  "image": "999.jpg",
+  "name": "Macbook",
+  "price": 600
+},{
+  "_id": {
+    "$oid": "6273e5bbb4115d536a12cc2d"
+  },
+  "category": "phones",
+  "description": "retro chocolate boba bear",
+  "image": "111.jpg\n",
+  "name": "cover phone",
+  "price": 10
+},{
+  "_id": {
+    "$oid": "6273e5bfb4115d536a12cc2e"
+  },
+  "category": "phones",
+  "description": "matte black",
+  "image": "i8.jpg",
+  "name": "iphone 7",
+  "price": 150
+},{
+  "_id": {
+    "$oid": "6273e5c4b4115d536a12cc2f"
+  },
+  "category": "phones",
+  "description": "spring case",
+  "image": "mb.jpg",
+  "name": "spring case",
+  "price": 10
+},{
+  "_id": {
+    "$oid": "6273e5c8b4115d536a12cc30"
+  },
+  "category": " phones",
+  "description": "winter case",
+  "image": "mo.jpg",
+  "name": "cover phone",
+  "price": 10
+},{
+  "_id": {
+    "$oid": "6273e5ccb4115d536a12cc31"
+  },
+  "category": "phones",
+  "description": "5G",
+  "image": "df.jpg",
+  "name": "samsung Galaxy 32",
+  "price": 300
+},{
+  "_id": {
+    "$oid": "6273e5d2b4115d536a12cc32"
+  },
+  "category": "computers",
+  "description": "samsung galaxy book s",
+  "image": "zx.jpg",
+  "name": "samsung galaxy",
+  "price": 900
+},{
+  "_id": {
+    "$oid": "6273e5dbb4115d536a12cc33"
+  },
+  "category": "computers",
+  "image": "lk.jpg",
+  "name": "lenovo",
+  "price": 110
+},{
+  "_id": {
+    "$oid": "6273e5e0b4115d536a12cc34"
+  },
+  "category": "phones",
+  "description": "huawei iphone xbase",
+  "image": "pm.jpg",
+  "name": "huawei",
+  "price": 88
+},{
+  "_id": {
+    "$oid": "6273e5e5b4115d536a12cc35"
+  },
+  "category": "phones",
+  "description": "original apple iphone 8 ios 3d touch",
+  "image": "gh.jpg",
+  "name": "apple iphone 8",
+  "price": 467
+},{
+  "_id": {
+    "$oid": "6273e5eab4115d536a12cc36"
+  },
+  "category": "phones",
+  "description": "nokia zenjutsu  premium 2021 ",
+  "image": "ty.jpg",
+  "name": "nokia",
+  "price": 845
+},{
+  "_id": {
+    "$oid": "6273e5eeb4115d536a12cc37"
+  },
+  "category": "phones",
+  "description": "android smartphone",
+  "image": "yu.jpg",
+  "name": "samsung Galaxy A21",
+  "price": 456
+},{
+  "_id": {
+    "$oid": "6292562c720068fcb97b39cd"
+  },
+  "name": "Error 404",
+  "image": "1653757484554-image_2022-05-07_232425505 (1).png",
+  "price": 50,
+  "description": "error 404x",
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "62926a44720068fcb97b39d1"
+  },
+  "name": "samsung galaxy s3",
+  "image": "1653762628491-s3.jpg",
+  "price": 200,
+  "description": "3giga ram\r\n16 giga \r\nblack&white colour\r\n",
+  "category": "phones"
+},{
+  "_id": {
+    "$oid": "6293c42aaa59ceb389cfb1c7"
+  },
+  "name": "Hp pro book",
+  "image": "1653851178351-hp.jpg",
+  "price": 1200,
+  "description": "Windows 11 Pro or other operating systems11th Generation Intel® Core™ i3, i5, or i7 processors. Optional vPro® support15.6\" diagonal HD (1366 x 768) or FHD (1920 x 1080) display. Up to 1000 nitsTake on tasks in the office or on the road.",
+  "category": "computers"
+},{
+  "_id": {
+    "$oid": "6294011daa59ceb389cfb1df"
+  },
+  "name": "Wedding dress",
+  "image": "1653866781880-images.jpg",
+  "price": 200,
+  "description": "wedding dress its very good",
+  "category": "clothes"
+},{
+  "_id": {
+    "$oid": "62940137aa59ceb389cfb1e1"
+  },
+  "name": "green dress",
+  "image": "1653866807560-download (1).jpg",
+  "price": 100,
+  "description": "good dress",
+  "category": "clothes"
+},{
+  "_id": {
+    "$oid": "62940159aa59ceb389cfb1e3"
+  },
+  "name": "white&red dress",
+  "image": "1653866841901-download.jpg",
+  "price": 300,
+  "description": "good dress",
+  "category": "clothes"
+}]
